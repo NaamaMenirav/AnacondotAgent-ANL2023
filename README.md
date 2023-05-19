@@ -1,9 +1,9 @@
 # AnacondotAgent-ANL2023
 A negotiation agent for bilateral negotiation that can learn from every previous encounter
 
-# To whom it may concern
+## To whom it may concern
 
-## i want to make sure that you will upload our agent accordingly, this is how it needs to be run in the "run.py" file
+### i want to make sure that you will upload our agent accordingly, this is how it needs to be run in the "run.py" file
 
 
         {
